@@ -1,6 +1,7 @@
 ---
-name: notemold-formulator
+name: notemold-beta
 description: Formulate a user-provided Markdown or plaintext document into a completed document based on placeholders defined with the **NoteMold** notation system, which uses braces `{}` as placeholders.
+compatibility: Tested with OpenCode. May work with other Agent Skills compatible Agentic AI tools.
 license: MIT
 ---
 
